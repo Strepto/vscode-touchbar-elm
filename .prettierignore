@@ -1,0 +1,5 @@
+# Ignore markdown (As the prettier formatter is not good at markdown syntax as of today)
+*.md
+
+# Ignore output
+/out/

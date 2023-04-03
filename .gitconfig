@@ -1,0 +1,8 @@
+# Configure Git to ensure line endings in files you checkout are correct for your os
+* text=auto
+
+# Keep lf for shell files
+*.sh text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
