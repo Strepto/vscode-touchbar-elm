@@ -2,7 +2,7 @@
   "name": "vscode-touchbar-elm",
   "displayName": "Touchbar for Elm",
   "description": "A simple touchbar implementation for elm productivity. Adds left and right pizza buttons, brackets and squigglies.",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "nil",
   "icon": "./icon.png",
   "engines": {
