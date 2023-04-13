@@ -1,5 +1,8 @@
 # Output
 /out/
+# Built extensions
+*.vsix
 
 # Node stuff
 node_modules
+
